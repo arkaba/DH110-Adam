@@ -11,6 +11,12 @@ Severity will be rated by the following criteria:
 
 Given by: https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/
 
+### Website 1: [Delish](https://www.delish.com/)
+
+
+https://www.delish.com/
+
+
 
 |Heuristic & Meaning| Heuristic Evaluation | Recommendation| Severity Rating|
 |-------------------|----------------------|---------------|----------------|
