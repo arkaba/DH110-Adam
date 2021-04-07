@@ -14,11 +14,11 @@ Given by: https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability
 
 |Heuristic & Meaning| Heuristic Evaluation | Recommendation| Severity Rating|
 |-------------------|----------------------|---------------|----------------|
-| **Visibility of System Status** | | |
-| **Match between system & real world** | | |
-| **User control & freedom** | | |
-| **Consistency & standards** | | |
-| **Recognition rather than recall** | | |
+| **Visibility of System Status**: The system should always give you an indication of what is going on once you perform an action | | |
+| **Match between system & real world**: The system should follow intuition from real life conventions. This includes using familliar words and making the system flow logically. | | |
+| **User control & freedom**: The user should be allowed to navigate the interface freely and be in control. The user should not get locked into certain actions and become stuck.| | |
+| **Consistency & standards**: The system should function as the user expects based on their experiences with other systems. The system should follow intuitive conventions used by other systems | | |
+| **Recognition rather than recall**: The user should not have to struggle to remember what elements and actions do. They should be able to easily recognize and recall info on screen.| | |
 | **Error Prevention** | | |
 | **Flexibility and efficiency of use** | | |
 | **Aesthetic and minimalist design** | | |
