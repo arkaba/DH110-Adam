@@ -39,25 +39,27 @@ https://www.delish.com/
 
 
 ### Website 2: [CNN](https://www.cnn.com/)
+*CNN is a household name, they cover news from all different sectors of life, from locations all across the world. The site contains information on politics, health, travel, sports, and more. People come to this site to get updates on all the latest news.*
 
 ![CNN Website Main Page](./images/cnn-ui.jpg)
 
 https://www.cnn.com/
 
+*While not super far behind it's competitors, CNN's website is not the most easily navigated website. From the main page you are shown an exuberant amount of information, with no clear way to filter out what you want besides the extremely broad sections at the top. The site could be very easily improved to streamline navigation for users*
 
 
 |Heuristic & Meaning| Heuristic Evaluation | Recommendation| Severity Rating|
 |-------------------|----------------------|---------------|----------------|
-| **Visibility of System Status**: The system should always give you an indication of what is going on once you perform an action | | |
-| **Match between system & real world**: The system should follow intuition from real life conventions. This includes using familliar words and making the system flow logically. | | |
-| **User control & freedom**: The user should be allowed to navigate the interface freely and be in control. The user should not get locked into certain actions and become stuck.| | |
-| **Consistency & standards**: The system should function as the user expects based on their experiences with other systems. The system should follow intuitive conventions used by other systems | | |
-| **Recognition rather than recall**: The user should not have to struggle to remember what elements and actions do. They should be able to easily recognize and recall info on screen.| | |
-| **Error Prevention**: Aside from error troubleshooting, the system should prevent errors from occuring due to user actions in the first place.  | | |
-| **Flexibility and efficiency of use**: Shortcuts, or simillar methods should be implemented such that experienced users can speed up interactions. These methods should be hidden from beginner users so the system works well for new users as well as experienced users.| | |
-| **Aesthetic and minimalist design**: The interface should not have elements distracting users from the important/ relevant information. The pertinent info should be displayed prominently and should not have to compete with other elements for attention.  | | |
-| **Help users with errors**: Error messages should be explained in common language, they should state the problem and offer solutions to fix it. There shouldnt be any code or hexadecimal error numbers. | | |
-| **Help and documentation**: The system shouldn't need extra explainations, however if it does, help and proper steps for the user to take in order to complete a task should be clearly documented and listed. The list should be concise and the user should be able to follow instructions step by step and arrive at their intended result.| | |
+| **Visibility of System Status**: The system should always give you an indication of what is going on once you perform an action |The website gives you a good idea of whats happening, such as lighting up when you hover over an option. However much of the information looks static, so it's hard to tell what options are. | Possible user selections should stand out a bit more |2|
+| **Match between system & real world**: The system should follow intuition from real life conventions. This includes using familliar words and making the system flow logically. | The system does a good job using conventions from real life. | None really needed |1|
+| **User control & freedom**: The user should be allowed to navigate the interface freely and be in control. The user should not get locked into certain actions and become stuck.| The user has a lot of freedom to roam around the many different categories, however not much control over what they are being shown. The search bar is the only way to filter information thats not predetermined by cnn to show you.| Filters should exist in order for users to control what types of information they want to see, rather than just being able to choose from a few options on the main page|3|
+| **Consistency & standards**: The system should function as the user expects based on their experiences with other systems. The system should follow intuitive conventions used by other systems |The system follows conventions from other user products to a bare minimum. Items on the page appear where they are supposed too with the exception of categories and live updates, however they function differently.|The position on the screen of live updates and news categories should be swapped. The menu and search bar should be more prominent and noticeable on the screen. Opening the menu bar should not cover the whole screen in information. |3|
+| **Recognition rather than recall**: The user should not have to struggle to remember what elements and actions do. They should be able to easily recognize and recall info on screen.|Due to the websites different layout, users need to learn the websites specific way of navigation, rather than recognizing familliar options |The layout should be standardized, and possibile options should be displayed more clearly to reduce ambiguity.|2|
+| **Error Prevention**: Aside from error troubleshooting, the system should prevent errors from occuring due to user actions in the first place.  | The system does a good job at preventing errors |None needed|1|
+| **Flexibility and efficiency of use**: Shortcuts, or simillar methods should be implemented such that experienced users can speed up interactions. These methods should be hidden from beginner users so the system works well for new users as well as experienced users.|No shortcuts exist besides the search bar. |Shortcuts such as filters should be implemented in order for knowledgeable users who have a general idea of what they're looking for to speed up their interactions.|3|
+| **Aesthetic and minimalist design**: The interface should not have elements distracting users from the important/ relevant information. The pertinent info should be displayed prominently and should not have to compete with other elements for attention.  |The interface is very cluttered and basic. The text on the screen blends together and is overwhelming, the pictures are also in a weird layout, making the aesthetic *unpleasing* so to speak. |The interface should be cleaned up via a side bar. There should be one main idea shown on the screen at a time, and maybe change the topic via a slideshow in the middle| 3 |
+| **Help users with errors**: Error messages should be explained in common language, they should state the problem and offer solutions to fix it. There shouldnt be any code or hexadecimal error numbers. |Error messages do a good job explaining what went wrong.|None needed |1|
+| **Help and documentation**: The system shouldn't need extra explainations, however if it does, help and proper steps for the user to take in order to complete a task should be clearly documented and listed. The list should be concise and the user should be able to follow instructions step by step and arrive at their intended result.|There is a help section, however it is convoluted to get too. |The help section should be more easily noticeable, perhaps given a "Support" section under the menu bar. This would allow users to more easily access helpful resources.|2|
 
 
 
