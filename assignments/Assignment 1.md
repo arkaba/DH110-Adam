@@ -13,17 +13,21 @@ Given by: https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability
 
 ### Website 1: [Delish](https://www.delish.com/)
 
+*Delish is a website to go too for all things food. On the website things such as news, trends, popular restaurants, cooking tips, and even products to buy. Many people come to this site in order to find a recipe or maybe get inspiration.*
+
 ![Delish Website Main Page](./images/delish-ui.jpg)
 
 https://www.delish.com/
 
+**Evaluation**:
 
+*The delish webpage isnt awful, however some very weird design choices hold it back from being intuitive and clean like the rest of its competitors. For example the image of the main page looks like the bottom was cut off, its not, thats exactly how the page appears on the computer. The website is confusing to navigate for a first time user, and once you figure out how to navigate it, it's still difficult to find what you're looking for.*
 
 |Heuristic & Meaning| Heuristic Evaluation | Recommendation| Severity Rating|
 |-------------------|----------------------|---------------|----------------|
-| **Visibility of System Status**: The system should always give you an indication of what is going on once you perform an action | | |
-| **Match between system & real world**: The system should follow intuition from real life conventions. This includes using familliar words and making the system flow logically. | | |
-| **User control & freedom**: The user should be allowed to navigate the interface freely and be in control. The user should not get locked into certain actions and become stuck.| | |
+| **Visibility of System Status**: The system should always give you an indication of what is going on once you perform an action |The system does a good job letting you know an option is selected, however it's not exactly clear what on the screen is an option to choose from. | 2|
+| **Match between system & real world**: The system should follow intuition from real life conventions. This includes using familliar words and making the system flow logically. |The system does a good job following real life conventions, however some of the lingo used might be a bit too colloquial for non young adults to understand. Maybe intentional to cater to audience | 1|
+| **User control & freedom**: The user should be allowed to navigate the interface freely and be in control. The user should not get locked into certain actions and become stuck.| From the main page, the interface is somewhat hard to navigate. Once you figure out where to go, you don't have much control over what you're shown. | |
 | **Consistency & standards**: The system should function as the user expects based on their experiences with other systems. The system should follow intuitive conventions used by other systems | | |
 | **Recognition rather than recall**: The user should not have to struggle to remember what elements and actions do. They should be able to easily recognize and recall info on screen.| | |
 | **Error Prevention**: Aside from error troubleshooting, the system should prevent errors from occuring due to user actions in the first place.  | | |
