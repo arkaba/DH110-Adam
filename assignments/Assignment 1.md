@@ -25,7 +25,7 @@ https://www.delish.com/
 
 |Heuristic & Meaning| Heuristic Evaluation | Recommendation| Severity Rating|
 |-------------------|----------------------|---------------|----------------|
-| **Visibility of System Status**: The system should always give you an indication of what is going on once you perform an action |The system does a good job letting you know an option is selected, however it's not exactly clear what on the screen is an option to choose from. | 2|
+| **Visibility of System Status**: The system should always give you an indication of what is going on once you perform an action |The system does a good job letting you know an option is selected, however it's not exactly clear what on the screen is an option to choose from. | The website whould have clickable items in a different color, or have them stand out somehow |2|
 | **Match between system & real world**: The system should follow intuition from real life conventions. This includes using familliar words and making the system flow logically. |The system does a good job following real life conventions, however some of the lingo used might be a bit too colloquial for non young adults to understand. Maybe intentional to cater to audience | 1|
 | **User control & freedom**: The user should be allowed to navigate the interface freely and be in control. The user should not get locked into certain actions and become stuck.| From the main page, the interface is somewhat hard to navigate. Once you figure out where to go, you don't have much control over what you're shown. | |
 | **Consistency & standards**: The system should function as the user expects based on their experiences with other systems. The system should follow intuitive conventions used by other systems | | |
