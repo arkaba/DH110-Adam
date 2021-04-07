@@ -13,6 +13,7 @@ Given by: https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability
 
 ### Website 1: [Delish](https://www.delish.com/)
 
+![Delish Website Main Page](./images/delish ui.jpg)
 
 https://www.delish.com/
 
@@ -33,6 +34,11 @@ https://www.delish.com/
 
 
 
+### Website 2: [CNN](https://www.cnn.com/)
+
+![CNN Website Main Page](./images/cnn ui.jpg)
+
+https://www.cnn.com/
 
 
 
