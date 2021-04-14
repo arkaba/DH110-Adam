@@ -14,44 +14,44 @@ The participant was recruited from a list of friends in the same age range as th
 
 After each task, the moderator checked boxes of information off if the participant was able to find said information on the website.
 
-After completion of all tasks, the administrator asked the participant to rate the interface and ease of use on a 7-point Likert Scale with a scale from Strongly Disagree to Strongly Agree. Post-task scenario subjective measures can be seen on the google form and included: 
-•	How easy it was to find the information from the home page.
-•	How much time the tasks took.
-•	How useful the website is for each task.
-•	How likely they are to perform each task.
+After completion of all tasks, the administrator asked the participant to rate the interface and ease of use on a 7-point Likert Scale with a scale from Strongly Disagree to Strongly Agree. Post-task scenario subjective measures can be seen on the google form and included:   
+•	How easy it was to find the information from the home page.  
+•	How much time the tasks took.  
+•	How useful the website is for each task.  
+•	How likely they are to perform each task.  
 
-In addition, the administrator asked the participants the following overall website questions to gauge System Usability:
-How much do you disagree with the following statementson a 7-point Likert Scale with a scale from Strongly Disagree to Strongly Agree:
-•	I think that I would like to use this website frequentlyz
-•	I found the website unnecessarily complex.
-•	I thought the website was easy to use. 
-•	I think that I would need the support of a technical person to be able to use this website.
-•	I found the various functions in this website were well integrated.
-•	I thought there was too much inconsistency in this website. 
-•	I would imagine that most people would learn to use this website very quickly.
-•	I found the website very cumbersome to use.
-•	I felt very confident using the website. 
-•	I needed to learn a lot of things before I could get going with this website. 
+In addition, the administrator asked the participants the following overall website questions to gauge System Usability:  
+How much do you disagree with the following statementson a 7-point Likert Scale with a scale from Strongly Disagree to Strongly Agree:  
+•	I think that I would like to use this website frequently    
+•	I found the website unnecessarily complex.  
+•	I thought the website was easy to use.   
+•	I think that I would need the support of a technical person to be able to use this website.  
+•	I found the various functions in this website were well integrated.  
+•	I thought there was too much inconsistency in this website.   
+•	I would imagine that most people would learn to use this website very quickly.  
+•	I found the website very cumbersome to use.  
+•	I felt very confident using the website.   
+•	I needed to learn a lot of things before I could get going with this website.   
 
-The participant was then asked to fill out product satisfaction cards, they selected cards with the adjective that most closely matched their personal reactions to delish.com:
-Boring
-Busy
-Calm
-Cheap
-Creative
-Cutting-Edge
-Exciting
-Expensive
-Familiar
-Fresh
-Impressive
-Innovative
-Inspiring
-Intimidating
-Old
-Professional
-Trustworthy
-Unprofessional
+The participant was then asked to fill out product satisfaction cards, they selected cards with the adjective that most closely matched their personal reactions to delish.com:  
+Boring  
+Busy  
+Calm  
+Cheap  
+Creative  
+Cutting-Edge  
+Exciting  
+Expensive  
+Familiar  
+Fresh  
+Impressive  
+Innovative  
+Inspiring  
+Intimidating  
+Old  
+Professional  
+Trustworthy  
+Unprofessional  
 
 ## Materials
 
