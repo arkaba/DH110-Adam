@@ -9,19 +9,16 @@ This test was conducted by Adam Kaba, a student at UCLA. The study was conducted
 
 ## Methodology
 Session
-[Describe how the participants were recruited. Describe the individual sessions – length of time and what happened during those sessions. Explain what the participant was asked to do and what happened post test session. Describe any pre- or post-test questionnaires. Include the subjective and overall questionnaires in the attachments’ section.]
 
 The participant was recruited from a list of friends in the same age range as the websites apparent target audience. The participant was informed of the test and it's logistics via text message. The session lasted approximately 25 minutes. During the session, the test administrator explained the process and asked the participant to answer background and pre-test questions located on the google form. The administrator read aloud the tasks for the user to accomplish on the website.
 
 After each task, the moderator checked boxes of information off if the participant was able to find said information on the website.
-
 
 After completion of all tasks, the administrator asked the participant to rate the interface and ease of use on a 7-point Likert Scale with a scale from Strongly Disagree to Strongly Agree. Post-task scenario subjective measures can be seen on the google form and included: 
 •	How easy it was to find the information from the home page.
 •	How much time the tasks took.
 •	How useful the website is for each task.
 •	How likely they are to perform each task.
-
 
 In addition, the administrator asked the participants the following overall website questions to gauge System Usability:
 How much do you disagree with the following statementson a 7-point Likert Scale with a scale from Strongly Disagree to Strongly Agree:
