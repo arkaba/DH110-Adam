@@ -21,7 +21,7 @@ After completion of all tasks, the administrator asked the participant to rate t
 •	How likely they are to perform each task.  
 
 In addition, the administrator asked the participants the following overall website questions to gauge System Usability:  
-How much do you disagree with the following statementson a 7-point Likert Scale with a scale from Strongly Disagree to Strongly Agree:  
+How much do you disagree with the following statementson a 7-point Likert Scale with a scale from Strongly Disagree to Strongly Agree?    
 •	I think that I would like to use this website frequently    
 •	I found the website unnecessarily complex.  
 •	I thought the website was easy to use.   
