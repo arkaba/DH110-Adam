@@ -44,13 +44,7 @@ See Attachment C for the subjective and overall questionnaires.
 
 ## Video 
 
-```
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/1T_5dpC0mlqBPRcgWQprRLzmoUjLzLxpW/view?usp=sharing" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line →>
-```
+Pilot test video can be found [here](https://drive.google.com/file/d/1T_5dpC0mlqBPRcgWQprRLzmoUjLzLxpW/view?usp=sharing)
 
 
 
