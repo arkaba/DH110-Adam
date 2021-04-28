@@ -1,4 +1,5 @@
-# Assignment 4
+# DH110- Assignment 4
+# By Adam Kaba
 
 ## Purpose of Storytelling
 The purpose of storytelling in my project is to put myself in a possible users perspective in order to see how they would view the product.  
