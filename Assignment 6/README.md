@@ -9,7 +9,7 @@ This project is to visualize the improvements I made to delish and show what the
 2. Consistency is pretty bad, theres a 2x2 picture menu, followed by 1 big picture, followed by a 1x4 picture menu, followed by 2 medium pictures, seemingly for no reason.  
 3. The figure ground contrast is iffy, the plain white background and the edge of the picture blend together a bit, not awful but a little weird.  
 
-These screenshots demonstrate in order, the home page, selection menu, and recipe page.
+These screenshots demonstrate in order, the home page, selection menu, and recipe page. Can be found [here](https://www.figma.com/file/ZQqwfIRm9mdcOKWQ9NIAuR/UI-Prototype?node-id=0%3A1)
 
 ## Screen Designs
 
