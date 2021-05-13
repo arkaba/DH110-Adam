@@ -29,10 +29,12 @@ These screenshots demonstrate in order, the home page, selection menu, and recip
 
 
 ## Impression test findings
-
--"I like the layout from the dark scheme the best, the contrast between the blue and gray is nice."
--"The blue in the first design looks a little dark"
--"The last design is interesting, maybe replace the first one with that and make it the regular one."
+-Light blue color had the best reception
+-lines should be a bit thicker and the edges should be smoothed out.
+- Should keep more space on the left and right sides.
+- Add more spacing between components.
+- maybe try changing the color of the font
+- skill level would be neat to add
 
 ### Accessibility
 
