@@ -28,6 +28,12 @@ These screenshots demonstrate in order, the home page, selection menu, and recip
 ![More Contrast UI](https://user-images.githubusercontent.com/54642348/118036690-b791a400-b321-11eb-8a91-d8d10cedd2a5.jpg)
 
 
+### Wireflows
+
+Wireflows for tasks 1 and 2
+
+![UI Wireflow](https://user-images.githubusercontent.com/54642348/118889430-fa1f2780-b8b1-11eb-9bd9-aed8812005dd.jpg)
+
 ## Impression test findings
 -Light blue color had the best reception
 -lines should be a bit thicker and the edges should be smoothed out.
