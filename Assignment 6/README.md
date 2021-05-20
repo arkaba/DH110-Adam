@@ -59,6 +59,12 @@ Wireflows for tasks 1 and 2
 
 ![Contrast 3 #2](https://user-images.githubusercontent.com/54642348/118032959-143e9000-b31d-11eb-9c7e-5b9ea17f4157.jpg)
 
+## Cognitive walkthrough
+The cognitive walkthrough provided me with insight as to things I should add. Some screens were unclear such as this, so some headers/ labels are necessary.
+
+![image](https://user-images.githubusercontent.com/54642348/119044208-c2c28080-b96e-11eb-8f68-bccf8dd49480.png)
+
+The cognitive walkthrough also provided me with other ideas such as a community feature, where people rate dishes/ recipes. It would also be convenient to be able to search by tabs/ sections of cuisine. The walkthrough also pointed out to me that having "Menu" in the main page is a bit ambiguous since it does more than that, maybe something like explore would be better.
 
 ## Design
 
