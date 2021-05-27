@@ -6,7 +6,7 @@ The project draws from delish.com and tries to create and implement improvements
 ### Clear design statement: 
 Some issues with the site were that:
 
-1.The relevant buttons, like the menu are not where you would expect at first. When you load into the site, the menu button is at the bottom left and moves to the top right on scroll down.
+1. The relevant buttons, like the menu are not where you would expect at first. When you load into the site, the menu button is at the bottom left and moves to the top right on scroll down.
 2. Consistency is pretty bad, theres a 2x2 picture menu, followed by 1 big picture, followed by a 1x4 picture menu, followed by 2 medium pictures, seemingly for no reason.
 3. The figure ground contrast is iffy, the plain white background and the edge of the picture blend together a bit, not awful but a little weird.
 
