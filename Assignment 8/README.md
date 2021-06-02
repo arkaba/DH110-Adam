@@ -84,4 +84,7 @@ I created 3 different color schemes for variation purposes.
 The full prototype can be found [here](https://www.figma.com/file/ZQqwfIRm9mdcOKWQ9NIAuR/UI-Prototype?node-id=0%3A1)
 
 ### Pitch video 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c3RdjDhD-ZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Conclusion: what did you learn throughout the process?
