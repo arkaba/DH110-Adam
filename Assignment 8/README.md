@@ -85,6 +85,7 @@ The full prototype can be found [here](https://www.figma.com/file/ZQqwfIRm9mdcOK
 
 ### Pitch video 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c3RdjDhD-ZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![Pitch Video](https://img.youtube.com/vi/YouTube_c3RdjDhD-ZU.jpg)](https://www.youtube.com/watch?v=c3RdjDhD-ZU)
 
 ### Conclusion: what did you learn throughout the process?
