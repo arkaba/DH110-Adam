@@ -13,7 +13,8 @@ Some issues with the site were that:
 ### Competitor analysis [assignment01 & 02]:
 After conducting the heuristic evaluation my issues with the website were that: the websites user control, aesthetic design, and consistency were lacking. Some fixes seemed to be adding filters and a consistent menu button.
 
-![Delish Website Main Page](./images/delish-ui.jpg)
+![delish-ui](https://user-images.githubusercontent.com/54642348/120543795-9280d600-c3a1-11eb-8755-e318a951640b.jpg)
+
 
 [read more…](https://github.com/arkaba/DH110-Adam-Kaba/blob/main/assignments/Assignment%201.md)
 
